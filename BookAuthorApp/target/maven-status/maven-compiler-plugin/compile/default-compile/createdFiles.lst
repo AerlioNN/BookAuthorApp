@@ -1,0 +1,7 @@
+com\example\BookAuthorApp\AuthorController.class
+com\example\BookAuthorApp\BookAuthorAppApplication.class
+com\example\BookAuthorApp\BookWithAuthor.class
+com\example\BookAuthorApp\Author.class
+com\example\BookAuthorApp\AuthorWithBooks.class
+com\example\BookAuthorApp\BookController.class
+com\example\BookAuthorApp\Book.class
